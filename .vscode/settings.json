@@ -49,5 +49,22 @@
       ],
       "url": "./schemas/paconn-apiProperties.schema.json"
     }
-  ]
+  ],
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#10d1f3",
+    "activityBar.activeBorder": "#d40bb6",
+    "activityBar.background": "#10d1f3",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#d40bb6",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "statusBar.background": "#0aaac6",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#10d1f3",
+    "titleBar.activeBackground": "#0aaac6",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#0aaac699",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#0aaac6"
 }
